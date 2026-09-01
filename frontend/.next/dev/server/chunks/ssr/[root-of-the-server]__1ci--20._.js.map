@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 13, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/miree/Desktop/ChattingAppProject/frontend/app/favicon.ico.mjs%20(structured%20image%20object)"],"sourcesContent":["import src from \"IMAGE\";\nexport default { src, width: 256, height: 256 }\n"],"names":["src","width","height"],"mappings":";;;;AAAA;;uCACe;IAAEA,KAAAA,mIAAG;IAAEC,OAAO;IAAKC,QAAQ;AAAI"}},
+    {"offset": {"line": 28, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/miree/Desktop/ChattingAppProject/frontend/app/page.js"],"sourcesContent":["import React from 'react'\r\n\r\nfunction page() {\r\n  return (\r\n    <>\r\n    <div className='w-screen h-screen'>\r\n    </div>\r\n      </>\r\n  )\r\n}\r\n\r\nexport default page"],"names":["page","className"],"mappings":";;;;;AAAA;;;AAEA,SAASA;IACP,qBACE;kBACA,cAAA,8OAAC;YAAIC,WAAU;;;;;;;;;;;AAInB;uCAEeD"}}]
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/app/globals.css"],"sourcesContent":["* {\r\n    box-sizing: border-box;\r\n}\r\n\r\nhtml,\r\nbody {\r\n    margin: 0;\r\n    padding: 0;\r\n    background: #ffffff;\r\n    color: #111111;\r\n    font-family: Arial, Helvetica, sans-serif;\r\n}\r\n\r\nbutton,\r\ninput,\r\ntextarea {\r\n    font-family: inherit;\r\n}\r\n\r\ninput,\r\ntextarea {\r\n    color: #111111;\r\n    background: #ffffff;\r\n}\r\n\r\nbutton {\r\n    color: #ffffff;\r\n    background: #2563eb;\r\n    border: none;\r\n    cursor: pointer;\r\n}\r\n\r\nbutton:disabled {\r\n    opacity: 0.6;\r\n    cursor: not-allowed;\r\n}\r\n\r\na {\r\n    color: #2563eb;\r\n}\r\n\r\nh1,\r\nh2,\r\nh3,\r\nh4,\r\nh5,\r\nh6,\r\np,\r\nstrong,\r\nspan,\r\nlabel {\r\n    color: inherit;\r\n}\r\n"],"names":[],"mappings":"AAAA;;;;AAIA;;;;;;;;AASA;;;;AAMA;;;;;AAMA;;;;;;;AAOA;;;;;AAKA;;;;AAIA"}}]
+}

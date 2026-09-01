@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    background: #ffffff;
+    color: #111111;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button,
+input,
+textarea {
+    font-family: inherit;
+}
+
+input,
+textarea {
+    color: #111111;
+    background: #ffffff;
+}
+
+button {
+    color: #ffffff;
+    background: #2563eb;
+    border: none;
+    cursor: pointer;
+}
+
+button:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+a {
+    color: #2563eb;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+strong,
+span,
+label {
+    color: inherit;
+}
